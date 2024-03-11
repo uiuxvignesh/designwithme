@@ -537,3 +537,45 @@ You're about to initialize a Firebase project in this directory:
 [info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
 [info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
 [info] 
+[debug] [2024-03-11T13:24:14.187Z] >>> [apiv2][query] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key type=owner
+[debug] [2024-03-11T13:24:14.502Z] <<< [apiv2][status] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key 401
+[debug] [2024-03-11T13:24:14.503Z] <<< [apiv2][body] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2024-03-11T13:25:16.024Z] >>> [apiv2][query] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key type=owner
+[debug] [2024-03-11T13:25:16.405Z] <<< [apiv2][status] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key 401
+[debug] [2024-03-11T13:25:16.406Z] <<< [apiv2][body] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2024-03-11T13:27:00.609Z] >>> [apiv2][query] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key type=owner
+[debug] [2024-03-11T13:27:01.084Z] <<< [apiv2][status] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key 401
+[debug] [2024-03-11T13:27:01.084Z] <<< [apiv2][body] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2024-03-11T13:27:20.154Z] >>> [apiv2][query] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key type=owner
+[debug] [2024-03-11T13:27:20.476Z] <<< [apiv2][status] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key 401
+[debug] [2024-03-11T13:27:20.476Z] <<< [apiv2][body] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2024-03-11T13:27:22.344Z] >>> [apiv2][query] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key type=owner
+[debug] [2024-03-11T13:27:22.635Z] <<< [apiv2][status] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key 401
+[debug] [2024-03-11T13:27:22.635Z] <<< [apiv2][body] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2024-03-11T13:27:23.173Z] >>> [apiv2][query] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key type=owner
+[debug] [2024-03-11T13:27:23.399Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2024-03-11T13:27:23.461Z] <<< [apiv2][status] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key 401
+[debug] [2024-03-11T13:27:23.461Z] <<< [apiv2][body] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2024-03-11T13:27:23.608Z] >>> [apiv2][query] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key type=owner
+[debug] [2024-03-11T13:27:23.706Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2024-03-11T13:27:23.706Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2024-03-11T13:27:23.801Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2024-03-11T13:27:23.893Z] <<< [apiv2][status] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key 401
+[debug] [2024-03-11T13:27:23.894Z] <<< [apiv2][body] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2024-03-11T13:27:24.038Z] >>> [apiv2][query] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key type=owner
+[debug] [2024-03-11T13:27:24.051Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2024-03-11T13:27:24.051Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2024-03-11T13:27:24.248Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2024-03-11T13:27:24.334Z] <<< [apiv2][status] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key 401
+[debug] [2024-03-11T13:27:24.335Z] <<< [apiv2][body] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2024-03-11T13:27:24.441Z] >>> [apiv2][query] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key type=owner
+[debug] [2024-03-11T13:27:24.541Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2024-03-11T13:27:24.542Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2024-03-11T13:27:24.632Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2024-03-11T13:27:24.729Z] <<< [apiv2][status] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key 401
+[debug] [2024-03-11T13:27:24.730Z] <<< [apiv2][body] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2024-03-11T13:27:24.847Z] >>> [apiv2][query] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key type=owner
+[debug] [2024-03-11T13:27:24.921Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2024-03-11T13:27:24.921Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2024-03-11T13:27:25.149Z] <<< [apiv2][status] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key 401
+[debug] [2024-03-11T13:27:25.149Z] <<< [apiv2][body] GET https://api.github.com/repos/Vignesh0708/designwithme/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
